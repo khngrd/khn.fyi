@@ -1,0 +1,196 @@
+{
+
+
+  "basics": {
+    "name": "Kasper Haugland Nørgaard",
+    "label": "",
+    "picture": "profil.png",
+    "email": "khngrd@gmail.com",
+    "phone": "(0045) 42221342",
+    "website": "khn.fyi",
+    "summary": "Jeg har siden 2013 boet i Viby J med min (nu 4-årige) søn, Oliver. Jeg begyndte mine studier i Aalborg, men vendte efter få tilbage til Aarhus. <br><br> Jeg fik min første computer mellem fingrene før der var browsere, og interessen for alting elektronisk og digitalt er siden vokset stødt. En interesse der, med mild underdrivelse, har sat tydelige spor i både studier såvel som fritid. <br><br> Når jeg ikke bruger tiden med min søn, rettes blikket mod en af de mange bolde jeg altid synes at have i luften. For øjeblikket arbejder jeg på en hjemmeside som del af et nyt projekt, der bygges en vindebro på sønnens middelalder-tema seng, og jeg konstruerer skelettet (der skal holde alle løsdelene) til en transportabel playstation i en kuffert (med skærm).",
+    "location": {
+      "address": "Rosenhøj Bakke 13, 3. Tv.",
+      "postalCode": "8260 Viby J",
+      "city": "Aarhus",
+      "countryCode": "DK",
+      "region": ""
+    },
+    "birth": {
+      "place": "",
+      "state": "",
+      "date": "1985-06-12"
+    },
+    "profiles": [
+      {
+        "network": "",
+        "username": "",
+        "url": ""
+      },
+      {
+      }
+    ]
+  },
+   "work": [
+    {
+      "company": "lolhat",
+      "position": "Selvstændig",
+      "website": "",
+      "startDate": "2016-06-01",
+      "endDate": "2017-03-01",
+      "summary": "Primært oprettet som overgangsvirksomhed med henblik på at overdrage systemer og viden til Etikos efter behov.",
+      "highlights": [
+          "Drift og vedligehold af server, database og kundeplatform hos Etikos."
+      ]
+    },
+    {
+      "company": "Etikos",
+      "position": "IT Supporter / Web developer",
+      "website": "",
+      "startDate": "2013-08-01",
+      "endDate": "2016-03-01",
+      "summary": "Jeg var få uger inde i et fire måneders praktikforløb hos Etikos da der blev igangsat et projektsamarbejde med Alexandrainstuttet om udviklingen af en digital platform til lederudvikling. Da projektets digitale format var uden for Etikos' vante arbejdsområde, blev jeg i første omgang invitereret med som 'tolk' - en der kunne tale både med både programmører og slutbrugere. Senere stod jeg selv for udvikling og vedligehold af platformen, samt teknisk support til kunder (primært i den offentlige sektor).",
+      "highlights": [
+        "Brobygger i projektsamarbejde mellem udviklere og folk uden IT baggrund.",
+        "Fejlfinding og problemløsning for slutbrugere af en browserbaseret udviklingsplatform."
+      ]
+    },
+    {
+      "company": "Marselisborg Gymnasium",
+      "position": "IT Supporter",
+      "website": "",
+      "startDate": "2010-07-01",
+      "endDate": "2012-01-01",
+      "summary": "Fejlfinding og problemløsning på gymnasiets faste IT installationer, samt lærere og elevers egne maskiner.",
+      "highlights": [
+        "Reference vedlagt."
+      ],
+      "keywords": [
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Studenterhus Aarhus",
+      "position": "Projektmedarbejder",
+      "website": "",
+      "startDate": "2007-01-01",
+      "endDate": "2010-07-01",
+      "summary": "Del af arbejdsgruppe med ansvar for erhvervs- og studenterrelationer, herunder brobygningsarrangementer. ",
+      "highlights": []
+    }
+  ],
+  "education": [
+    {
+      "institution": "Aarhus Universitet",
+      "area": "Digital Design",
+      "studyType": "",
+      "startDate": "2010-09-01",
+      "endDate": "2016-09-01",
+      "gpa": "",
+      "courses": [
+        "Perspektiver på medier",
+        "Vidensdeling i organisationer",
+        "Interaktionsdesign",
+        "Digital kultur",
+        "Digital æstetik",
+        "Design"      ]
+    },
+    {
+      "institution": "Aarhus Universitet",
+      "area": "Humanistisk Organisationsudvikling",
+      "studyType": "",
+      "startDate": "2009-09-01",
+      "endDate": "2010-02-01",
+      "gpa": "",
+      "courses": [
+        "Humanistisk innovation",
+        "Organisationsteori",
+        "Organiationsetik",
+        "IT Etik"      ]
+    },
+    {
+      "institution": "Aarhus Universitet",
+      "area": "Medievidenskab",
+      "studyType": "",
+      "startDate": "2007-09-01",
+      "endDate": "2009-06-01",
+      "gpa": "",
+      "courses": [
+        "medie- kultur og samfundsteori",
+        "mediereceptionsanalyse",
+        "kvantitative brugerundersøgelser",
+        "kvalitative interviws",
+        "mediesystemanalyse"      ]
+    },
+    {
+      "institution": "Aalborg Universitet",
+      "area": "Humanistisk Informatik",
+      "studyType": "",
+      "startDate": "2005-09-01",
+      "endDate": "2007-06-01",
+      "gpa": "",
+      "courses": [
+        "Informationsvidenskab",
+        "Videnskabsteori",
+        "Retorik",
+        "Interpersonel Kommunikation",
+        "Virksomhedskommunikation"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Web",
+      "level": "Advanced",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "Javascript",
+        "Debugging"
+      ]
+    },
+    {
+      "name": "IT",
+      "level": "Advanced",
+      "keywords": [
+        "Drift",
+        "Netværk",
+        "linux",
+        "unix"
+      ]
+    },
+    {
+      "name": "IT",
+      "level": "Master",
+      "keywords": [
+        "Fejlfinding",
+        "problemløsning",
+        "Hardware",
+        "windows"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Dansk",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "Engelsk",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "Tysk",
+      "fluency": "Intermediate"
+    },
+    {
+      "language": "Norsk",
+      "fluency": "Advanced"
+    },
+    {
+      "language": "Svensk",
+      "fluency": "Advanced"
+    }
+  ]
+}
