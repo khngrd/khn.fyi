@@ -8,7 +8,7 @@
     "email": "khngrd@gmail.com",
     "phone": "(0045) 42221342",
     "website": "khn.fyi",
-    "summary": "Jeg har siden 2013 boet i Viby J med min (nu 4-årige) søn, Oliver. Jeg begyndte mine studier i Aalborg, men vendte efter få tilbage til Aarhus. <br><br> Jeg fik min første computer mellem fingrene før der var browsere, og interessen for alting elektronisk og digitalt er siden vokset stødt. En interesse der, med mild underdrivelse, har sat tydelige spor i både studier såvel som fritid. <br><br> Når jeg ikke bruger tiden med min søn, rettes blikket mod en af de mange bolde jeg altid synes at have i luften. For øjeblikket arbejder jeg på en hjemmeside som del af et nyt projekt, der bygges en vindebro på sønnens middelalder-tema seng, og jeg konstruerer skelettet (der skal holde alle løsdelene) til en transportabel playstation i en kuffert (med skærm).",
+    "summary": "",
     "location": {
       "address": "Rosenhøj Bakke 13, 3. Tv.",
       "postalCode": "8260 Viby J",
@@ -23,9 +23,9 @@
     },
     "profiles": [
       {
-        "network": "",
-        "username": "",
-        "url": ""
+        "network": "linkedin",
+        "username": "linkedin.com/in/khngrd/",
+        "url": "https://www.linkedin.com/in/khngrd/"
       },
       {
       }
@@ -63,7 +63,7 @@
       "endDate": "2012-01-01",
       "summary": "Fejlfinding og problemløsning på gymnasiets faste IT installationer, samt lærere og elevers egne maskiner.",
       "highlights": [
-        "Reference vedlagt."
+        "Reference."
       ],
       "keywords": [
       ]
