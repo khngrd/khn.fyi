@@ -165,6 +165,9 @@ section .location {
     flex-flow: row wrap;
     justify-content: flex-start;
 }
+#header > #contact {
+  flex-flow: column wrap;
+}
 
 #header > div {
     line-height: 1.5;
@@ -619,10 +622,10 @@ div.topic {
     }
     ul.courses li,
     ul.keywords li {
-        color: #000;
-        background-color: #fff;
-        border: 1px solid #dfeaf1;
-        /*border: 1px solid #000;*/
+        // color: #000;
+        // background-color: #fff;
+        // border: 1px solid #dfeaf1;
+        // border: 1px solid #000;
 
     }
     div.topic {
@@ -662,7 +665,8 @@ div.topic {
     .institution::before,
     .organization::before,
     .awarder::before {
-        content: "at ";
+        content: ", ";
+        margin-left: -5px;
     }
 
     .main-summary {
@@ -786,12 +790,13 @@ div.topic {
 						</div>
 
 						<span class="location">
+<!-- 							
 								<span class="address">
 									Rosenhøj Bakke 13, 3. Tv.,
 								</span>
 								<span class="postalCode">
 									8260 Viby J,
-								</span>
+								</span> -->
 								<span class="city">
 									Aarhus,
 								</span>
@@ -799,10 +804,10 @@ div.topic {
 									DK
 								</span>
 						</span>
-                    <div>Født på en onsdag i juni 1985 (~31 år gammel) </div>
+                    <!-- <div>juni 1985 -->
 					<div id="contact">
 						<div class="website">
-              <span class="fa fa-external-link"></span>
+              <span class="fa fa-user"></span>
 							<a target="_blank" href="khn.fyi">khn.fyi</a>
 						</div>
 						<div class="email">
@@ -810,22 +815,23 @@ div.topic {
 							<a href="mailto:khngrd@gmail.com">khngrd@gmail.com</a>
 						</div>
 						<div class="phone">
-              <span class="fa fa-mobile"></span>
+              <span class="fa fa-phone"></span>
 							(0045) 42221342
 						</div>
 					</div>
 
 					<div id="profiles">
 						<div class="item">
+								<div class="username">
+									<span class="fa fa-linkedin linkedin social"></span>
+									<span class="url">
+										<a href="https://www.linkedin.com/in/khngrd/">linkedin.com/in/khngrd/</a>
+									</span>
+								</div>
 						</div>
 						<div class="item">
 						</div>
 					</div>
-					<section class="section main-summary">
-						<section>
-							<div><p>Jeg har siden 2013 boet i Viby J med min (nu 4-årige) søn, Oliver. Jeg begyndte mine studier i Aalborg, men vendte efter få tilbage til Aarhus. <br><br> Jeg fik min første computer mellem fingrene før der var browsere, og interessen for alting elektronisk og digitalt er siden vokset stødt. En interesse der, med mild underdrivelse, har sat tydelige spor i både studier såvel som fritid. <br><br> Når jeg ikke bruger tiden med min søn, rettes blikket mod en af de mange bolde jeg altid synes at have i luften. For øjeblikket arbejder jeg på en hjemmeside som del af et nyt projekt, der bygges en vindebro på sønnens middelalder-tema seng, og jeg konstruerer skelettet (der skal holde alle løsdelene) til en transportabel playstation i en kuffert (med skærm).</p></div>
-						</section>
-					</section>
 				</header>
 
 
@@ -985,7 +991,7 @@ div.topic {
 										<p><p>Fejlfinding og problemløsning på gymnasiets faste IT installationer, samt lærere og elevers egne maskiner.</p></p>
 									</div>
 									<ul class="highlights">
-											<li>Reference vedlagt.</li>
+											<li>Reference.</li>
 									</ul>
 							</div>
 					</section>
