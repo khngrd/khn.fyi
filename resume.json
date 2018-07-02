@@ -38,9 +38,10 @@
       "website": "",
       "startDate": "2018-04-16",
       "endDate": "2019-07-15",
-      "summary": ".",
+      "summary": "Fortsættelse af praktikant-forløb, med mere fokus på udvikling og tilrettelæggelse af funktioner i ServiceNow Knowledge-Portal",
       "highlights": [
-          ""
+          "Crashkursus i ServiceNow ServicePortal",
+          "Udvikling af eget modul/widget til ServiceNow Service-/Knowledge-Portal"
       ]
     },
      {
@@ -49,9 +50,10 @@
       "website": "",
       "startDate": "2018-01-05",
       "endDate": "2019-04-16",
-      "summary": ".",
+      "summary": "Udarbejdelse af vejledninger, dokumentation af procedurer og processer ",
       "highlights": [
-          ""
+          "Sagsbehandling i eDoc",
+          "Introduktion til ServiceNow-platform"
       ]
     },
     {
@@ -163,34 +165,36 @@
   ],
   "skills": [
     {
-      "name": "Web",
+      "name": "Front-end UI/UX",
       "level": "Advanced",
       "keywords": [
         "HTML",
         "CSS",
-        "SASS/SCSS",
-        "Javascript/jQuery",
-        "Debugging"
+        "SCSS",
+        "SASS",
+        "LESS",
+        "Javascript",
+        "jQuery"
       ]
     },
     {
-      "name": "IT",
+      "name": "Organisation",
       "level": "Advanced",
       "keywords": [
-        "Drift",
-        "Netværk",
-        "linux",
-        "unix"
+        "Analyse",
+        "Vidensdeling",
+        "Formidling",
+        "IT-Etik"
       ]
     },
     {
-      "name": "IT",
-      "level": "Master",
+      "name": "Projekter",
+      "level": "Advanced",
       "keywords": [
-        "Fejlfinding",
-        "problemløsning",
-        "Hardware",
-        "windows"
+        "Designprocesser",
+        "Kvantitative undersøgelser",
+        "Kvalitattive undersøgelse",
+        "Brugerinddragelse"
       ]
     }
   ],
