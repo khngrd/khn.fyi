@@ -35,19 +35,28 @@
     ]
   },
    "work": [
-          {
+      {
+      "company": "Aarhus Kommune, Brugerstyring og Servicesystemer",
+      "position": "IT-Konsulent/Web-arkitekt",
+      "website": "",
+      "startDate": "2018-04-16",
+      "endDate": "",
+      "summary": "",
+      "highlights": [
+        "React", "Node", "Api"
+      ]
+      },{
       "company": "Aarhus Kommune, IT-Infrastruktur",
       "position": "IT-Konsulent",
       "website": "",
       "startDate": "2018-04-16",
-      "endDate": "-",
+      "endDate": "2018-10-16",
       "summary": "Fortsættelse af praktikant-forløb, med mere fokus på udvikling og tilrettelæggelse af funktioner i ServiceNow Knowledge-Portal",
       "highlights": [
           "Crashkursus i ServiceNow ServicePortal",
           "Udvikling af eget modul/widget til ServiceNow Service-/Knowledge-Portal"
       ]
-    },
-     {
+      },{
       "company": "Aarhus Kommune, IT-Infrastruktur",
       "position": "Virksomhedspraktikant",
       "website": "",
