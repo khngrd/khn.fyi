@@ -186,7 +186,9 @@
         "SASS",
         "LESS",
         "Javascript",
-        "jQuery"
+        "jQuery",
+        "React",
+        "Node"
       ]
     },
     {
